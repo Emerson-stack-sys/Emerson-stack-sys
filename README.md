@@ -1,7 +1,16 @@
 ## Hi there 👋 :pencil2:
 
 
-Ola sou o Emerson-stack-sys, sou um progamador Fron End, arualmente estou aprendendo e criando projetos com:
+Ola sou o Emerson alves Filguiera, sou desenvolvedor em transição para área de Dados** 💻 :computer: Apaixonado por tecnologia e inovação.
+
+## 🚀 Sobre mim
+- 🎓 :mortar_board: Sou Estudando em Bacharelado em Sistemas de Informação e desenvolvedor Full Stack em formação. Tenho conhecimento basico em JavaScript, HTML, CSS, SQL e serviços AWS, como QuickSight, Athena, S3 e Glue. Estou sempre buscando aprimorar meus conhecimentos e me aprofundar na área de desenvolvimento web e análise de dados.
+- 🔍 Foco em **Cruzamento de dados**, **Back-End** e **Desenvolvimento Web**
+- 🚀 Aprendendo **react.js, Node.js e Aws**
+- ✅ Experiência com **JavaScript, HTML, CSS, SQL, EXCEL, GitHub, AWS ( S3, Athena, Glue, QuickSight e Low Code)**
+- ##Conecte-se comigo
+- [![LinkedIn](https://www.linkedin.com/in/emerson-stack-sys/
+- [![GitHub]( https://github.com/Emerson-stack-sys/Emerson-stack-sys
 <br>
 <br>
 <br>
