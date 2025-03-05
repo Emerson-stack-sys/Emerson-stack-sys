@@ -1,7 +1,7 @@
 ## Hi there 👋 :pencil2:
 
 
-Ola sou o Emerson alves Filguiera, sou desenvolvedor em transição para área de Dados** 💻 :computer: Apaixonado por tecnologia e inovação.
+Ola sou o Emerson alves Filgueira, sou desenvolvedor em transição para área de Dados** 💻 :computer: Apaixonado por tecnologia e inovação.
 
 ## 🚀 Sobre mim
 - 🎓 :mortar_board: Sou Estudando em Bacharelado em Sistemas de Informação e desenvolvedor Full Stack em formação. Tenho conhecimento basico em JavaScript, HTML, CSS, SQL e serviços AWS, como QuickSight, Athena, S3 e Glue. Estou sempre buscando aprimorar meus conhecimentos e me aprofundar na área de desenvolvimento web e análise de dados.
