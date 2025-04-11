@@ -19,25 +19,14 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="Mongo.db" width="40"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="FIGMA" width="40"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="CANVA" width="40"/>
-
-
-
 </div>
 
-
-
-
-
-
-
-
-revise para mim e faça que fique agradavel para recrutadores, tenho conhecimentos básicos  Desenvolvedor em transição  de carreira** 💻 :computer: Apaixonado por tecnologia e inovação.
-
 ## 🚀 Sobre mim
-- 🎓 :mortar_board: Sou Estudando em Bacharelado em Sistemas de Informação e desenvolvedor Full Stack. Tenho conhecimento básicos em Front-End HTML, CSS, JavaScript e React. Em Back-End: conhecimentos básicos Node.js, Json.js, Mongo.DB, Atlas, Prisma, Prisma Studio em banco de dados NoSql com Api. Conhecimentos básicos com serviços Banco de Dado relacional como: Excel, SqlLite3, AWS: QuickSight, Athena, S3 e Glue. Estou sempre buscando aprimorar meus conhecimentos e me aprofundar na área de desenvolvimento web e análise de dados.
-- 🔍 Foco em **Cruzamento de dados**, **Back-End** e **Desenvolvimento Web**
-- 🚀 Aprendendo **react.js, Node.js e Aws**
-- ✅ Experiência com em projetos ** HTML, CSS, JavaScript, e React no Back SQL, EXCEL, GitHub, AWS ( S3, Athena, Glue, QuickSight e Low Code)**
+- 🎓 :mortar_board: 🎓 Graduando em Bacharelado em Sistemas de Informação, atualmente cursando e me especializando como Desenvolvedor Full Stack. 💻 Conhecimentos Básicos em Desenvolvimento Front-End: Web HTML, CSS, JavaScript e React. Em Back-End:Back-End: Node.js, JSON, MongoDB (com Atlas), Prisma e Prisma Studio. APIs: Criação e consumo de APIs com foco em dados NoSQL. Banco de Dados Relacional: SQL (SQLite3), Excel. Serviços AWS: QuickSight, Athena, S3 e Glue.
+- 
+-  🔎 Interesse e foco em: **Cruzamento de dados**, **Back-End e APIs** e **Desenvolvimento Web**
+- 📚 Atualmente estudando e me aprofundando em: React.js,  Node.js, Serviços da AWS **
+- ✅ Experiência prática com projetos acadêmicos e pessoais utilizando: ** HTML, CSS, JavaScript e React.  Back-End: Node.js, Json.js, Mongo.DB, Atlas, Prisma, Prisma Studio e APIs com foco em dados NoSQL.
 - ##Conecte-se comigo
 - [![LinkedIn](https://www.linkedin.com/in/emerson-stack-sys/
 - [![GitHub]( https://github.com/Emerson-stack-sys/Emerson-stack-sys
