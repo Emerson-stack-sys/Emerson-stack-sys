@@ -1,31 +1,58 @@
-## Hi there 👋 :pencil2:
+## Olá, eu sou o Emerson Alves Filgueira👋 :pencil2:
 
 
-Ola sou o Emerson alves Filgueira, sou desenvolvedor em transição para área de Dados** 💻 :computer: Apaixonado por tecnologia e inovação.
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=emerson-stack-sys&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emerson-stack-sys&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
+
+<div styles"display: inline_block"><br>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/html.png" alt="HTML" width="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" width="40"/>
+ <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" width="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" width="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" width="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/yarn.png" alt="Yarn" width="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" alt="Npm" width="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" width="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" width="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="Mongo.db" width="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="Mysql" width="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SqlLite" width="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="Aws" width="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="API" width="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="GIT" width="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GITHUB" width="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="VSCODE" width="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="FIGMA" width="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="CANVA" width="40"/>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+revise para mim e faça que fique agradavel para recrutadores, tenho conhecimentos básicos  Desenvolvedor em transição  de carreira** 💻 :computer: Apaixonado por tecnologia e inovação.
 
 ## 🚀 Sobre mim
-- 🎓 :mortar_board: Sou Estudando em Bacharelado em Sistemas de Informação e desenvolvedor Full Stack em formação. Tenho conhecimento basico em JavaScript, HTML, CSS, SQL e serviços AWS, como QuickSight, Athena, S3 e Glue. Estou sempre buscando aprimorar meus conhecimentos e me aprofundar na área de desenvolvimento web e análise de dados.
+- 🎓 :mortar_board: Sou Estudando em Bacharelado em Sistemas de Informação e desenvolvedor Full Stack. Tenho conhecimento básicos em Front-End HTML, CSS, JavaScript e React. Em Back-End: conhecimentos básicos Node.js, Json.js, Mongo.DB, Atlas, Prisma, Prisma Studio em banco de dados NoSql com Api. Conhecimentos básicos com serviços Banco de Dado relacional como: Excel, SqlLite3, AWS: QuickSight, Athena, S3 e Glue. Estou sempre buscando aprimorar meus conhecimentos e me aprofundar na área de desenvolvimento web e análise de dados.
 - 🔍 Foco em **Cruzamento de dados**, **Back-End** e **Desenvolvimento Web**
 - 🚀 Aprendendo **react.js, Node.js e Aws**
-- ✅ Experiência com **JavaScript, HTML, CSS, SQL, EXCEL, GitHub, AWS ( S3, Athena, Glue, QuickSight e Low Code)**
+- ✅ Experiência com em projetos ** HTML, CSS, JavaScript, e React no Back SQL, EXCEL, GitHub, AWS ( S3, Athena, Glue, QuickSight e Low Code)**
 - ##Conecte-se comigo
 - [![LinkedIn](https://www.linkedin.com/in/emerson-stack-sys/
 - [![GitHub]( https://github.com/Emerson-stack-sys/Emerson-stack-sys
 <br>
 <br>
 <br>
- <a href="https://www.linkedin.com/in/emerson-stack-sys-5a335a31a/"><img align="center" alt="Emer-Sys" height="30" width="40"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" /><a/>
-
- <a href="https://www.linkedin.com/in/emerson-stack-sys-5a335a31a/"><img align="center" alt="Emer-Sys" height="30" width="40"  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
-
-<a href="https://www.linkedin.com/in/emerson-stack-sys-5a335a31a/"><img align="center" alt="Emer-Sys" height="30" width="40"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascrpt-logo" />
-
-<a href="https://www.linkedin.com/in/emerson-stack-sys-5a335a31a/"><img align="center" alt="Emer-Sys" height="30" width="40"  src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="react-logo" />
-
-<a href="https://www.linkedin.com/in/emerson-stack-sys-5a335a31a/"><img align="center" alt="Emer-Sys" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java-logo" />
 
 
-[![Emerson-stats](https://github-readme-stats.vercel.app/api?username=Emerson-stack-sys)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson-stack-sys)](https://github.com/anuraghazra/github-readme-stats)
