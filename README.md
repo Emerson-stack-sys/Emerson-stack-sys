@@ -18,13 +18,12 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" width="40"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="Mongo.db" width="40"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="FIGMA" width="40"/>
-   https://raw.githubusercontent.com/Emerson-stack-sys/Gerenciador-usuarios-BackEnd/12996785a0543cb18082a074cf68b9a1a3ee9058/docs/Avatar.png
-   https://raw.githubusercontent.com/Emerson-stack-sys/Gerenciador-usuarios-BackEnd/12996785a0543cb18082a074cf68b9a1a3ee9058/docs/Avatar.png
-   https://raw.githubusercontent.com/Emerson-stack-sys/Gerenciador-usuarios-BackEnd/12996785a0543cb18082a074cf68b9a1a3ee9058/docs/Avatar.png
-   https://raw.githubusercontent.com/Emerson-stack-sys/Gerenciador-usuarios-BackEnd/12996785a0543cb18082a074cf68b9a1a3ee9058/docs/Avatar.png
-   https://raw.githubusercontent.com/Emerson-stack-sys/Gerenciador-usuarios-BackEnd/12996785a0543cb18082a074cf68b9a1a3ee9058/docs/Avatar.png
-   https://raw.githubusercontent.com/Emerson-stack-sys/Gerenciador-usuarios-BackEnd/12996785a0543cb18082a074cf68b9a1a3ee9058/docs/Avatar.png
-   https://raw.githubusercontent.com/Emerson-stack-sys/Gerenciador-usuarios-BackEnd/12996785a0543cb18082a074cf68b9a1a3ee9058/docs/Avatar.png
+  <img src="https://github.com/Emerson-stack-sys/Gerenciador-usuarios-BackEnd/blob/main/docs/api.jpeg?raw=true" alt="API" width="40"/>
+   <img src="https://github.com/Emerson-stack-sys/Gerenciador-usuarios-BackEnd/blob/main/docs/jsonJS.jpeg?raw=true" alt="JSON" width="40"/>
+   <img src="https://raw.githubusercontent.com/Emerson-stack-sys/Gerenciador-usuarios-FrontEnd/d13fdaf69b841b7584bf544c0f28f70a6ccd64e1/src/assets/REACT-ROUTER.jpeg" alt="ReactRouter" width="60"/>
+   <img src="https://github.com/Emerson-stack-sys/Gerenciador-usuarios-BackEnd/blob/main/docs/Atlas.jpeg?raw=true" alt="AtlasPrisma" width="40"/>
+  
+
 <img src="https://raw.githubusercontent.com/Emerson-stack-sys/Gerenciador-usuarios-BackEnd/12996785a0543cb18082a074cf68b9a1a3ee9058/docs/Avatar.png" alt="Avatar" width="200"/>  
  
 </div>
