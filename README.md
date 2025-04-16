@@ -24,7 +24,7 @@
    <img src="https://github.com/Emerson-stack-sys/Gerenciador-usuarios-BackEnd/blob/main/docs/Atlas.jpeg?raw=true" alt="AtlasPrisma" width="40"/>
   
 
-<img src="https://raw.githubusercontent.com/Emerson-stack-sys/Gerenciador-usuarios-BackEnd/12996785a0543cb18082a074cf68b9a1a3ee9058/docs/Avatar.png" alt="Avatar" width="200"/>  
+<img src="https://raw.githubusercontent.com/Emerson-stack-sys/Gerenciador-usuarios-BackEnd/12996785a0543cb18082a074cf68b9a1a3ee9058/docs/Avatar.png" alt="Avatar" width="120"/>  
  
 </div>
 
