@@ -18,7 +18,7 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" width="40"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="Mongo.db" width="40"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="FIGMA" width="40"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="CANVA" width="40"/>
+<img src=" https://raw.githubusercontent.com/Emerson-stack-sys/Gerenciador-usuarios-BackEnd/12996785a0543cb18082a074cf68b9a1a3ee9058/docs/Avatar.png" alt="Avatar" width="150"/>  
 </div>
 
 ## 🚀 Sobre mim
